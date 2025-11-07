@@ -1,0 +1,31 @@
+{
+  "project_info": {
+    "project_number": "628693098941",
+    "project_id": "voice-asisstant-b4bde",
+    "storage_bucket": "voice-asisstant-b4bde.firebasestorage.app"
+  },
+  "firebase_url": "https://voice-asisstant-b4bde-default-rtdb.firebaseio.com",
+
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628693098941:android:c1c19daac98ce89618f2d4",
+        "android_client_info": {
+          "package_name": "com.UnityTechnologies.Mobile3DTemp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
